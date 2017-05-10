@@ -97,7 +97,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
   margin: -100px auto 0;
   min-width: 1000px;
   height: 100px;
-  background: #ccc;
+  background: blue;
   position: relative; }
 
 /* Footer END-----------------------------------------------*/
